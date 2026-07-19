@@ -171,7 +171,7 @@ that would require extending the VBA.
 
 ## How to Run
 
-Open the template workbook (For your own workbook, import the .bas file).
+Open the template workbook (For your own workbook, import the .bas file (on .xlsm file) by pressing Alt + F11 -> Import).
 Enable Macros.
 Press
 Alt + F8
